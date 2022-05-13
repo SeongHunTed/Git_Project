@@ -1,1 +1,1 @@
-"Initial Commit"
+"숭실대학교 SE Git 형상관리 프로젝트"
